@@ -1,1 +1,1 @@
-For learning medallion data warehouse sturcture
+For learning medallion data warehouse structure
